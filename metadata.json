@@ -1,0 +1,6 @@
+{
+  "name": "Keirin AI - 競輪AI予想アプリ Windows Desktop",
+  "description": "公式KEIRIN.JP開催日程取得、出走表・オッズ分析、機械学習（順位/Harvilleモデル）、分数ケリー資金配分、日次レポート、自動投票エンジン（サーキットブレーカー搭載）を備えた競輪AI予想アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
